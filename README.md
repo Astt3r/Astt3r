@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:alejano2000@gmail.com"><img src="https://img.shields.io/badge/email-alejano2000@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/alejandro-robles-9279992b2/"><img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Robles-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://astt3r.github.io"><img src="https://img.shields.io/badge/Portafolio-Web-%23E34F26?style=flat&logo=githubpages&logoColor=white" alt="Web Portfolio"></a>
 </p>
 
