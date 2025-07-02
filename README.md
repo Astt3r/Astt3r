@@ -18,7 +18,7 @@
 
 ## 🧍 Cómo soy
 
-🫥 _“Aunque crea que no lo escucho, créame que lo hago. Que hable poco no significa que no le preste atención.”_
+_“Aunque crea que no lo escucho, créame que lo hago. Que hable poco no significa que no le preste atención.”_
 
 Me gusta observar, reflexionar, y responder con intención. Soy de pocas palabras, pero con atención completa.
 Cuando trabajo, pongo atención al detalle, valoro la organización y la claridad, y doy prioridad a hacer las cosas bien más que a hacerlas rápido. Me enfoco en **resolver problemas de fondo**, no solo los síntomas.  
