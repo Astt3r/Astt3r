@@ -1,5 +1,5 @@
 <h1 align="center">Astt3r - Alejandro Robles 👋</h1>
-<h3 align="center">Ingeniero en Informática · Desarrollador de Videojuegos · Amante del Pixel Art 🎮</h3>
+<h3 align="center">Ingeniero en Informática 🎮</h3>
 
 <p align="center">
   <a href="mailto:alejano2000@gmail.com"><img src="https://img.shields.io/badge/email-alejano2000@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
