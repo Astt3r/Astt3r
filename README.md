@@ -1,9 +1,6 @@
 <h1 align="center">💻 Astt3r - Alejandro Robles</h1>
 <h3 align="center">Computer Engineer · Web & Indie Game Developer</h3>
 
-<p align="center">
-  <a href="mailto:alejano2000@gmail.com"><img src="https://img.shields.io/badge/email-alejano2000@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://astt3r.github.io"><img src="https://img.shields.io/badge/Portfolio-Web-%23E34F26?style=flat&logo=githubpages&logoColor=white" alt="Web Portfolio"></a>
 </p>
 
 ---
