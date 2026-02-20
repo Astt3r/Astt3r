@@ -1,6 +1,6 @@
 # Hi, I'm Astt3r 👋
 
-24 | Computer Engineer | Frontend Developer | Game Dev enthusiast
+25 | Computer Engineer | Frontend Developer | Game Dev enthusiast
 
 ## Technologies I work with
 
