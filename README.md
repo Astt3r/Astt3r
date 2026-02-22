@@ -36,9 +36,9 @@ Welcome to my GitHub! I am a recently graduated Software Engineer passionate abo
 
 ## 📌 Featured Work
 
-* **Fundación Juan XXIII (Freelance CMS):** Designed and developed a complete full-stack web platform for an educational foundation, managing the end-to-end lifecycle from database architecture to the UI.
-* **Junta Transparente:** A neighborhood board data viewer and public allocations system built as my graduation project.
-* **Game Development:** Creator of *Blind Hero* (an arcade platformer built in Unity) and currently developing on side projects
+* **Fundación Juan XXIII (Freelance CMS):** Designed and developed a complete full-stack web platform for an educational foundation, managing the end-to-end lifecycle from database architecture to the UI. 
+* **Junta Transparente (Graduation Project):** A collaborative neighborhood board data viewer and public allocations system. (Backend and architecture repository).
+* **Game Development:** Creator of *Blind Hero*, an arcade platformer with custom mechanics built in Unity. 🕹️ [Play it on itch.io](https://arxenical.itch.io/blind-hero) 
 
 ---
 
