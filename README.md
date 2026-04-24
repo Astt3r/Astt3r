@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Robles (Astt3r) 👋
+# Hi, I'm (Astt3r) 👋
 
 **Software Engineer & Full-Stack Web Developer**
 
