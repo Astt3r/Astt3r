@@ -1,4 +1,4 @@
-# Hi, I'm (Astt3r) 👋
+# Hi, I'm (Astt3r)
 
 **Software Engineer & Full-Stack Web Developer**
 
@@ -23,4 +23,4 @@ I am a Software Engineer. I specialize in the full web development lifecycle—f
 
 ---
 
-💼 **Check out my full interactive portfolio:** [astt3r.github.io](https://astt3r.github.io)
+**My portfolio:** [astt3r.github.io](https://astt3r.github.io)
